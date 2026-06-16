@@ -126,10 +126,6 @@ AI-powered pothole detection solution aimed at improving road safety and infrast
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:charanyadavkandhi30@gmail.com)
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge\&logo=amazonaws\&logoColor=white)](https://aws.amazon.com/)
-
-[![Azure AI Engineer](https://img.shields.io/badge/Azure-AI%20Engineer-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)](https://azure.microsoft.com/)
-
 ---
 
 📧 Email: [charanyadavkandhi30@gmail.com](mailto:charanyadavkandhi30@gmail.com)
