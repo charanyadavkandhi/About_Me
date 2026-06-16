@@ -1,39 +1,45 @@
 # Hi 👋, I'm Kandhi Charan Yadav
 
-### Computer Science Undergraduate | AWS Certified Data Engineer Associate | Azure AI Engineer Associate | AI/ML Enthusiast
+### 🎓 Computer Science Undergraduate | ☁️ AWS Certified Data Engineer Associate | 🤖 Azure AI Engineer Associate | 🚀 AI/ML Enthusiast
 
-I am a Computer Science undergraduate at SR University passionate about Artificial Intelligence, Machine Learning, Deep Learning, Cloud Computing, and Data Engineering. I enjoy building AI-powered applications and solving real-world problems through technology.
+I am a Computer Science Engineering student at SR University passionate about Artificial Intelligence, Machine Learning, Deep Learning, Cloud Computing, and Data Engineering. I enjoy building intelligent systems, solving real-world problems, and continuously learning emerging technologies.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=charanyadavkandhi\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 ---
 
-## 🚀 About Me
+## 🚀 Currently Working On
 
-* 🎓 B.Tech Computer Science Engineering @ SR University
-* ☁️ AWS Certified Data Engineer Associate
-* 🤖 Azure AI Engineer Associate
-* 🔬 Researching ANN-Based Air Pollution Forecasting
-* 💡 Interested in AI, ML, Deep Learning, Computer Vision, and NLP
-* 🌱 Continuously learning new technologies and frameworks
+* 🔬 Research: Performance Impact of Different Optimizers on ANN-Based Air Pollution Forecasting
+* 🤖 Machine Learning & Deep Learning Projects
+* ☁️ AWS & Azure Cloud Technologies
+* 📊 Data Engineering & Analytics
+* 🧠 Data Structures & Algorithms
+
+---
+
+## 🎓 Education
+
+**B.Tech Computer Science Engineering**
+SR University
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Programming
 
 * Python
 * SQL
 * C
 
-### AI & Machine Learning
+### Artificial Intelligence
 
 * Machine Learning
 * Deep Learning
-* Artificial Neural Networks (ANN)
 * Computer Vision
 * Natural Language Processing (NLP)
+* Artificial Neural Networks (ANN)
 
 ### Libraries & Frameworks
 
@@ -54,23 +60,15 @@ I am a Computer Science undergraduate at SR University passionate about Artifici
 
 ---
 
-## 🏷️ Skills & Technologies
+## 🏷️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
@@ -84,37 +82,47 @@ I am a Computer Science undergraduate at SR University passionate about Artifici
 
 ---
 
+## 💼 Experience
+
+### Data Science Intern – CodSoft
+
+* Worked on Machine Learning projects involving prediction and classification tasks.
+* Applied data preprocessing, feature engineering, and model evaluation techniques.
+* Developed practical experience in Python and data analysis workflows.
+
+---
+
 ## 📌 Featured Projects
 
 ### 🌍 Air Pollution Forecasting Using Deep Learning
 
-🔗 https://github.com/charanyadavkandhi/Air-Pollution-Forecasting
+ANN-based forecasting system for PM2.5 prediction and optimizer performance analysis.
 
-Developed an ANN-based air pollution forecasting system for PM2.5 prediction and optimizer performance analysis.
+🔗 https://github.com/charanyadavkandhi/Air-Pollution-Forecasting
 
 ### 😊 Real-Time Emotion Detection
 
-🔗 https://github.com/charanyadavkandhi/real-time-emotion-detection
+Real-time facial emotion recognition using Deep Learning, TensorFlow, and OpenCV.
 
-Built a computer vision system for real-time facial emotion recognition using Deep Learning and OpenCV.
+🔗 https://github.com/charanyadavkandhi/real-time-emotion-detection
 
 ### 📧 Spam Mail Detection Using Machine Learning
 
-🔗 https://github.com/charanyadavkandhi/Spam-Mail-Detector-ML
+NLP-based spam email classification using Machine Learning techniques.
 
-Developed an NLP-based spam email classification system using Machine Learning techniques.
+🔗 https://github.com/charanyadavkandhi/Spam-Mail-Detector-ML
 
 ### 🏠 House Price Prediction
 
-🔗 https://github.com/charanyadavkandhi/House-Price-Prediction
+Machine Learning-based predictive analytics for residential property valuation.
 
-Implemented regression-based predictive analytics for residential property price estimation.
+🔗 https://github.com/charanyadavkandhi/House-Price-Prediction
 
 ### 🛣️ Pothole Detection System
 
-🔗 https://github.com/charanyadavkandhi/pothole_SIH
+Computer Vision-based solution for road safety and infrastructure monitoring.
 
-AI-powered pothole detection solution aimed at improving road safety and infrastructure monitoring.
+🔗 https://github.com/charanyadavkandhi/pothole_SIH
 
 ---
 
