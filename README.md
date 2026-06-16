@@ -6,6 +6,14 @@ I am a Computer Science undergraduate at SR University passionate about Artifici
 
 ---
 
+## 📊 GitHub Stats
+
+---
+
+## 🔥 GitHub Streak
+
+---
+
 ## 🚀 About Me
 
 * 🎓 B.Tech Computer Science Engineering @ SR University
@@ -52,6 +60,16 @@ I am a Computer Science undergraduate at SR University passionate about Artifici
 
 ---
 
+## 🏷️ Skills & Technologies
+
+
+
+
+
+\
+
+---
+
 ## 🏆 Certifications
 
 * AWS Certified Data Engineer Associate
@@ -86,14 +104,13 @@ AI-powered pothole detection solution aimed at improving road safety and infrast
 
 ## 📫 Connect With Me
 
-
-*Cell Number: 9948428191
-
-* LinkedIn: https:[//www.linkedin.com/in/kandhicharanyadav](https://www.linkedin.com/in/kandhicharanyadav/)
-  
-* GitHub: https:[//github.com/charanyadavkandhi](https://github.com/charanyadavkandhi)
-
+* LinkedIn: https://www.linkedin.com/in/kandhicharanyadav/
+* GitHub: https://github.com/charanyadavkandhi
 * Email: [charanyadavkandhi30@gmail.com](mailto:charanyadavkandhi30@gmail.com)
+
+---
+
+## 👀 Profile Views
 
 ---
 
