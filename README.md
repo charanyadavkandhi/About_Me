@@ -6,20 +6,6 @@ I am a Computer Science undergraduate at SR University passionate about Artifici
 
 ---
 
-## 📊 GitHub Stats
-
-![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charanyadavkandhi&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charanyadavkandhi&layout=compact&theme=github_dark)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=charanyadavkandhi&theme=github-dark)
-
----
-
 ## 🚀 About Me
 
 * 🎓 B.Tech Computer Science Engineering @ SR University
@@ -66,16 +52,6 @@ I am a Computer Science undergraduate at SR University passionate about Artifici
 
 ---
 
-## 🏷️ Skills & Technologies
-
-
-
-
-
-\
-
----
-
 ## 🏆 Certifications
 
 * AWS Certified Data Engineer Associate
@@ -110,15 +86,15 @@ AI-powered pothole detection solution aimed at improving road safety and infrast
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/kandhicharanyadav/
-* GitHub: https://github.com/charanyadavkandhi
+
+*Cell Number: 9948428191
+
+* LinkedIn: https:[//www.linkedin.com/in/kandhicharanyadav](https://www.linkedin.com/in/kandhicharanyadav/)
+  
+* GitHub: https:[//github.com/charanyadavkandhi](https://github.com/charanyadavkandhi)
+
 * Email: [charanyadavkandhi30@gmail.com](mailto:charanyadavkandhi30@gmail.com)
 
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=charanyadavkandhi&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
 ⭐ Thank you for visiting my profile!
