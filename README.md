@@ -128,15 +128,17 @@ Computer Vision-based solution for road safety and infrastructure monitoring.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kandhicharanyadav/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandhicharanyadav/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/charanyadavkandhi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charanyadavkandhi)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:charanyadavkandhi30@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charanyadavkandhi30@gmail.com)
 
 ---
 
-📧 Email: [charanyadavkandhi30@gmail.com](mailto:charanyadavkandhi30@gmail.com)
+📱 Mobile: +91 99484 28191
+
+📧 Email: charanyadavkandhi30@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/kandhicharanyadav/
 
