@@ -110,43 +110,15 @@ https://6a30bb34c931795c42593171--unique-puppy-fda920.netlify.app/
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact Information
 
-<p align="center">
+📧 Email: [charanyadavkandhi30@gmail.com](mailto:charanyadavkandhi30@gmail.com)
 
-<a href="https://www.linkedin.com/in/kandhicharanyadav/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+📱 Mobile: +91 99484 28191
 
-<a href="https://github.com/charanyadavkandhi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🔗 LinkedIn: https://www.linkedin.com/in/kandhicharanyadav/
 
-<a href="https://6a30bb34c931795c42593171--unique-puppy-fda920.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:charanyadavkandhi30@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-📧 <b>charanyadavkandhi30@gmail.com</b> &nbsp; • &nbsp;
-📱 <b>+91 99484 28191</b>
-</p>
-
-<p align="center">
-🔗 <a href="https://www.linkedin.com/in/kandhicharanyadav/">LinkedIn</a> &nbsp; • &nbsp;
-💻 <a href="https://github.com/charanyadavkandhi">GitHub</a> &nbsp; • &nbsp;
-🌐 <a href="https://6a30bb34c931795c42593171--unique-puppy-fda920.netlify.app/">Portfolio</a>
-</p>
-
----
-
-⭐ Thanks for visiting my profile! Feel free to connect and collaborate on AI, Machine Learning, Data Engineering, and Software Development projects.
-
+💻 GitHub: https://github.com/charanyadavkandhi
 
 ---
 
